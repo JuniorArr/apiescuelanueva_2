@@ -14,7 +14,7 @@
 	<name>Escuela_Nueva_WEB_Viernes</name>
 	<description>Servico Web Sprint</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
